@@ -209,3 +209,7 @@ ui <- (pageWithSidebar(
     )
 ))
 shinyApp(ui = ui, server = server)
+
+
+ciccio
+ è in vacanza
